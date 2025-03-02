@@ -33,8 +33,9 @@ h1 {
 }
 
 h2 {
-    border-bottom: 0.1em solid #66D7D1;
-    padding: 0.25em .25 1em;
+    font-style:italic;
+    border-bottom: 0.1em solid #214d4b;
+    padding: 0.5em 0.25em 1em;
     margin: 1.6em 0;
     text-shadow: 0.05em 0.05em .1em deeppink;
 }
